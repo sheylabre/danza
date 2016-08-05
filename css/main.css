@@ -67,7 +67,7 @@
 
 .deco{
 	width: 20%;
-	margin: -2% 0% 5% 35%;
+	margin: -4% 0% 5% 35%;
 
 }
 .eight a{
@@ -79,3 +79,7 @@
 	background-color: blue;
 }
 
+.man{
+	width: 100%;
+
+}
