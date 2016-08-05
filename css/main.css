@@ -6,12 +6,12 @@
  display: inline;
  margin: 2% 70px 2% 0;
  position: relative;
- left: 30%; 
+ left: 30%;
 }
 #nav ul{
 	margin-bottom: 3%;
 }
- 
+
 #nav a {
  text-decoration: none;
  color: black;
@@ -30,11 +30,52 @@
 	height: 480px;
 }
 
-.studio{
-	margin-left: 5%;
-}
-
-.dance1 h5 p a{
+.dance1 h5  {
+	margin-top:23%;
 	color: white;
 	font-size: 80px;
 }
+
+.dance1 p  {
+	padding: 2%;
+	color: white;
+	margin-bottom: 10%;
+}
+
+.dance1 a{
+	text-decoration: none;
+	padding: 2% 10%;
+	border:1px solid blue;
+	color: white;
+}
+
+.textura2{
+	background-image: url(../img/textura_2.jpg);
+	width: 100%;
+	height: 480px;
+}
+
+.textura2 p{
+	text-align: center;
+	font-size: 25px;
+	margin: 20% 0 0 0;
+}
+
+.eight{
+	margin-left: 20%;
+}
+
+.deco{
+	width: 20%;
+	margin: -2% 0% 5% 35%;
+
+}
+.eight a{
+	margin-left: -23%;
+	text-decoration: none;
+	color: white;
+	padding: 2% 5%;
+	border: 1px solid blue;
+	background-color: blue;
+}
+
